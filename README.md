@@ -4,3 +4,5 @@
 #### - BeautifulSoup
 #### - selenium
 #### - openpyxl
+
+### 追記(010222): scrapy使用verもあり
